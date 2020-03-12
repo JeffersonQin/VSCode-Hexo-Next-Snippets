@@ -37,6 +37,10 @@ This extension contributes the following settings:
 
 No known issues yet.
 
+## LICENSE
+
+MIT LICENSE.
+
 ## Homepage
 
 This project is on my github: https://github.com/JeffersonQin/VSCode-Hexo-Next-Snippets
