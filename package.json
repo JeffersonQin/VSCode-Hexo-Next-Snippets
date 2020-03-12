@@ -40,5 +40,6 @@
         "type": "git",
         "url": "https://github.com/JeffersonQin/VSCode-Hexo-Next-Snippets"
     },
-    "homepage": "https://github.com/JeffersonQin/VSCode-Hexo-Next-Snippets/blob/master/README.md"
+    "homepage": "https://github.com/JeffersonQin/VSCode-Hexo-Next-Snippets/blob/master/README.md",
+    "icon": "lib/images/next-icon.png"
 }
