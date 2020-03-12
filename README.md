@@ -22,17 +22,6 @@ The code suggestion will be on when the `>` character is typed.
 
 With VSCode Verson no lower than `1.41.0`
 
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
 ## Known Issues
 
 No known issues yet.
