@@ -1,0 +1,41 @@
+{
+    "Insert Info": {
+        "prefix": [">info"],
+        "body": ["<div class=\"note info\">$1</div>$0"],
+        "description": "Insert Info Style Note."
+    },
+    "Insert Default": {
+        "prefix": [">default"],
+        "body": ["<div class=\"note default\">$1</div>$0"],
+        "description": "Insert Default Style Note."
+    },
+    "Insert Primary": {
+        "prefix": [">primary"],
+        "body": ["<div class=\"note primary\">$1</div>$0"],
+        "description": "Insert Primary Style Note."
+    },
+    "Insert Success": {
+        "prefix": [">success"],
+        "body": ["<div class=\"note success\">$1</div>$0"],
+        "description": "Insert Success Style Note."
+    },
+    "Insert Warning": {
+        "prefix": [">warning"],
+        "body": ["<div class=\"note warning\">$1</div>$0"],
+        "description": "Insert Warning Style Note."
+    },
+    "Insert Danger": {
+        "prefix": [">danger"],
+        "body": ["<div class=\"note danger\">$1</div>$0"],
+        "description": "Insert Danger Style Note."
+    },
+    "Insert Quote": {
+        "prefix": [">quote"], 
+        "body": [
+            "{% cq %}",
+            "$1",
+            "{% endcq %}$0"
+        ],
+        "description": "Insert Quote."
+    }
+}

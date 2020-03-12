@@ -1,0 +1,44 @@
+{
+	"name": "hexo-next-snippets",
+	"displayName": "Hexo Next Snippets",
+	"description": "Some Snippets and Command for Hexo Next Theme in markdown writing",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"activationEvents": [
+		"onLanguage:markdown"
+	],
+	"main": "./extension.js",
+	"contributes": {
+        "snippets": [
+            {
+                "language": "markdown",
+                "path": "./snippets/markdown.json"
+            }
+        ],
+		"commands": []
+	},
+	"scripts": {
+		"test": "node ./test/runTest.js"
+	},
+	"devDependencies": {
+		"@types/glob": "^7.1.1",
+		"@types/mocha": "^5.2.7",
+		"@types/node": "^12.11.7",
+		"@types/vscode": "^1.43.0",
+		"eslint": "^6.6.0",
+		"glob": "^7.1.5",
+		"mocha": "^6.2.2",
+		"typescript": "^3.6.4",
+		"vscode-test": "^1.2.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JeffersonQin/VSCode-Hexo-Next-Snippets"
+    },
+    "homepage": "https://github.com/JeffersonQin/VSCode-Hexo-Next-Snippets/blob/master/README.md"
+}
