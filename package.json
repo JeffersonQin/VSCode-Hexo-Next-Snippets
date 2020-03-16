@@ -2,7 +2,7 @@
 	"name": "hexo-next-snippets",
 	"displayName": "Hexo Next Snippets",
 	"description": "Some Snippets and Command for Hexo Next Theme in markdown writing",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "JeffersonQin",
 	"engines": {
 		"vscode": "^1.41.0"

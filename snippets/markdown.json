@@ -41,7 +41,7 @@
     "Insert Large Info": {
         "prefix": [">info_large"],
         "body": [
-            "{% note info %}",
+            "{% note info no-icon %}",
             "$1",
             "{% endnote %}$0"
         ],
@@ -50,7 +50,7 @@
     "Insert Large default": {
         "prefix": [">default_large"],
         "body": [
-            "{% note default %}",
+            "{% note default no-icon %}",
             "$1",
             "{% endnote %}$0"
         ],
@@ -59,7 +59,7 @@
     "Insert Large primary": {
         "prefix": [">primary_large"],
         "body": [
-            "{% note primary %}",
+            "{% note primary no-icon %}",
             "$1",
             "{% endnote %}$0"
         ],
@@ -68,7 +68,7 @@
     "Insert Large success": {
         "prefix": [">success_large"],
         "body": [
-            "{% note success %}",
+            "{% note success no-icon %}",
             "$1",
             "{% endnote %}$0"
         ],
@@ -77,7 +77,7 @@
     "Insert Large warning": {
         "prefix": [">warning_large"],
         "body": [
-            "{% note warning %}",
+            "{% note warning no-icon %}",
             "$1",
             "{% endnote %}$0"
         ],
@@ -86,7 +86,7 @@
     "Insert Large danger": {
         "prefix": [">danger_large"],
         "body": [
-            "{% note danger %}",
+            "{% note danger no-icon %}",
             "$1",
             "{% endnote %}$0"
         ],

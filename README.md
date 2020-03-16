@@ -54,4 +54,8 @@ Add new Snippet.
 
 Bug Fix.
 
+### 1.0.3
+
+Change Style & Bug Fix.
+
 **Enjoy!**
