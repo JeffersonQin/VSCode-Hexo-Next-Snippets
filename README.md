@@ -17,6 +17,12 @@ The code suggestion will be on when the `>` character is typed.
 - `>danger`: Insert Danger Style Note.
 - `>warning`: Insert Warning Style Note.
 - `>quote`: Insert Quote.
+- `>info_large`: Insert Large Info Style Note.
+- `>default_large`: Insert Large Default Style Note.
+- `>primary_large`: Insert Large Primary Style Note.
+- `>success_large`: Insert Large Success Style Note.
+- `>danger_large`: Insert Large Danger Style Note.
+- `>warning_large`: Insert Large Warning Style Note.
 
 ## Requirements
 
@@ -42,6 +48,6 @@ Initial release of Hexo Next Snippets
 
 ### 1.0.1
 
-Fixed issue #.
+Add new Snippet.
 
 **Enjoy!**
