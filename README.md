@@ -50,4 +50,8 @@ Initial release of Hexo Next Snippets
 
 Add new Snippet.
 
+### 1.0.2
+
+Bug Fix.
+
 **Enjoy!**
