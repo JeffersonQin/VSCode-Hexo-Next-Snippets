@@ -15,12 +15,12 @@
 	],
 	"main": "./extension.js",
 	"contributes": {
-        "snippets": [
-            {
-                "language": "markdown",
-                "path": "./snippets/markdown.json"
-            }
-        ]
+		"snippets": [
+			{
+				"language": "markdown",
+				"path": "./snippets/markdown.json"
+			}
+		]
 	},
 	"scripts": {
 		"test": "node ./test/runTest.js"
@@ -35,11 +35,11 @@
 		"mocha": "^6.2.2",
 		"typescript": "^3.6.4",
 		"vscode-test": "^1.2.2"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/JeffersonQin/VSCode-Hexo-Next-Snippets"
-    },
-    "homepage": "https://github.com/JeffersonQin/VSCode-Hexo-Next-Snippets/blob/master/README.md",
-    "icon": "lib/images/next-icon.png"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/JeffersonQin/VSCode-Hexo-Next-Snippets"
+	},
+	"homepage": "https://github.com/JeffersonQin/VSCode-Hexo-Next-Snippets/blob/master/README.md",
+	"icon": "lib/images/next-icon.png"
 }
